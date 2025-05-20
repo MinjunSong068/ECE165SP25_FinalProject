@@ -2,7 +2,7 @@
 
 ## Clone the repo
 ```commandline
-git clone https://github.com/MinjunSong068/ECE165SP25
+git clone https://github.com/MinjunSong068/ECE165SP25_FinalProject
 ```
 
 ## Committing Changes
