@@ -15,3 +15,8 @@ git commit -m "message"
 ```commandline
 git push origin main
 ```
+
+## Updating repo
+```commandline
+git pull
+```
