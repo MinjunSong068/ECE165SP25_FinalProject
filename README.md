@@ -13,9 +13,16 @@ git add .
 git commit -m "message"
 ```
 ```commandline
-git push origin main
+git push origin "branch name"
 ```
-
+## Switch branch
+```commandline
+git checkout "branch name"
+```
+## Create branch
+```commandline
+git branch "new branch name"
+```
 ## Updating repo
 ```commandline
 git pull
