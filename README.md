@@ -1,6 +1,5 @@
 # ECE165 Spring 2025 Final Project
 
-This is a temp branch
 
 ## Clone the repo
 ```commandline
