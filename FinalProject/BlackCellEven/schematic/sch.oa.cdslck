@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      ee165sp25aj
 HostName                       ieng6-ece-02.ucsd.edu
-ProcessIdentifier              27214
-ProcessCreationTime_UTC        1748468200
-ProcessCreationTime_Readable   Wed May 28 14:36:40 2025 PDT
+ProcessIdentifier              31472
+ProcessCreationTime_UTC        1748332219
+ProcessCreationTime_Readable   Tue May 27 00:50:19 2025 PDT
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/linux/ieng6/ee165sp25/ee165sp25aj/ECE165SP25_FinalProject/FinalProject/proj_tb_SP22/schematic/sch.oa.cdslck.dirlck
-TimeEditLocked                 Wed May 28 14:41:51 2025 PDT
+FilePathUsedToEditLock         /home/linux/ieng6/ee165sp25/ee165sp25aj/ECE165SP25_FinalProject/FinalProject/BlackCellEven/schematic/sch.oa.cdslck
+TimeEditLocked                 Tue May 27 02:02:59 2025 PDT
